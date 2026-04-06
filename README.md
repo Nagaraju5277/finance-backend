@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Finance Data Processing and Access Control Backend
 
 ## Description
@@ -49,3 +50,6 @@ GET /admin/records
 
 3. Run server
    npm run dev
+=======
+# finance-backend
+>>>>>>> 237f136959b34153ae6382920bd8d87a7469955a
